@@ -1,0 +1,23 @@
+# Site settings
+title: Urban Chinatown
+email: cesar.webdesign@gmail.com
+baseurl: ""
+url: "/"
+
+# Build settings
+markdown: redcarpet
+redcarpet:
+  extensions: ['smart', 'tables', 'with_toc_data']
+highlighter: pygments
+permalink:    none
+paginate:     6
+sass:
+  compressed: true
+gems:
+  - jekyll-sitemap
+
+
+# Optional features
+animated:           true
+show_related_posts: false
+show_post_footers:  false
