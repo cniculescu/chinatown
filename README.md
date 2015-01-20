@@ -4,7 +4,7 @@
 
 As part of a Architecture Studio at the University of British Columbia, this site is intended to document our exploration of Vancouver's Chinatown District. This site will be updated throughout the course of 2015 analyizing various aspects of Chinatown for the intent of proposing housing strategies within the area. 
 
-## Many thanks to [John Otander](http://johnotander.com) for his work on * [pixyll.com](http://www.pixyll.com)
+## Many thanks to [John Otander](http://johnotander.com) for his work on [pixyll.com](http://www.pixyll.com)
 
 * [pixyll.com](http://www.pixyll.com)
 
