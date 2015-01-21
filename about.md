@@ -15,10 +15,10 @@ Our goal with this site was to expose our reseach to the public, by making it cl
 ##### Nicole Tischler
 ##### Jared Schmidts
 ##### Christopher Torres
-##### Sam Carnale
+##### Samantha Carnevale
 ##### Shiloh Sukkau
 ##### Spencer Pidgeon
-##### Stephane Chen
+##### Stephanie Chen
 ##### Chantelle Lupieri
 ##### Ryder Thalheimer
 ##### Sébastien Roy
