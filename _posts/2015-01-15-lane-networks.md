@@ -3,6 +3,7 @@ layout:     default
 title:      Lane Networks
 date:       2015-01-15 11:11:11
 summary:    Exploring the hidden spaces and networks in Chinatown
+categories: research
 ---
 <h3 class="h3 t1">Lane Networks</h3>
 

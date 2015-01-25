@@ -3,6 +3,7 @@ layout:     default
 title:      Connection to City
 date:       2015-01-15 11:11:11
 summary:    An Analysis of Chinatown’s Undefined Boundaries
+categories: research
 ---
 
 <h3 class="h3 ro1">Connection to City</h3>
