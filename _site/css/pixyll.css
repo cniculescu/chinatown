@@ -592,6 +592,9 @@ a:hover {
   border-style: solid;
   border-width: 1px; }
 
+.border-thick {
+  border-width: 4px; }
+
 .border-top {
   border-top-style: solid;
   border-top-width: 1px; }
@@ -1224,6 +1227,7 @@ Copyright (c) 2014 Daniel Eden
     opacity: 0;
     -webkit-transform: translateY(-20px);
     transform: translateY(-20px); }
+
   100% {
     opacity: 1;
     -webkit-transform: translateY(0);
@@ -1234,6 +1238,7 @@ Copyright (c) 2014 Daniel Eden
     -webkit-transform: translateY(-20px) translate3d(0, 0, 0);
     -ms-transform: translateY(-20px) translate3d(0, 0, 0);
     transform: translateY(-20px) translate3d(0, 0, 0); }
+
   100% {
     opacity: 1;
     -webkit-transform: translateY(0) translate3d(0, 0, 0);
@@ -1461,7 +1466,7 @@ green     #859900  operators, other keywords
 /* Name.Attribute */
 .highlight .nb,
 .gist-syntax .highlight .nb {
-  color: #B58900; }
+  color: #b58900; }
 
 /* Name.Builtin */
 .highlight .nc,

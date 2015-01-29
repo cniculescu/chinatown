@@ -58,3 +58,5 @@ Cantilevering the structures over the plaza creates thresholds and boundar- ies 
 ![img ](/images/kp-6.png)
 #### Elevation
 <br>
+
+{% include partial_precedent.html %}
