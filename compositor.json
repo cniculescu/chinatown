@@ -1,0 +1,138 @@
+{
+  "name": "cniculescu/chinatown",
+  "version": "0.1.4",
+  "libraries": {
+    "xv": "^1.1.21"
+  },
+  "title": "",
+  "branch": "",
+  "style": {
+    "name": "Default",
+    "componentSet": {
+      "nav": "nav/BasicNav",
+      "header": "header/BannerHeader",
+      "article": "article/BasicArticle",
+      "footer": "footer/BasicFooter"
+    },
+    "fontFamily": "-apple-system, BlinkMacSystemFont, sans-serif",
+    "fontWeight": 400,
+    "bold": 600,
+    "lineHeight": 1.5,
+    "typeScale": [
+      72,
+      48,
+      24,
+      20,
+      16,
+      14,
+      12
+    ],
+    "monospace": "Menlo, monospace",
+    "heading": {
+      "fontFamily": null,
+      "fontStyle": null,
+      "fontWeight": 600,
+      "lineHeight": 1.25,
+      "textTransform": null,
+      "letterSpacing": null,
+      "h0": {},
+      "h1": {},
+      "h2": {},
+      "h3": {},
+      "h4": {},
+      "h5": {},
+      "h6": {}
+    },
+    "alternativeText": {},
+    "space": [
+      0,
+      8,
+      16,
+      32,
+      48,
+      64,
+      96
+    ],
+    "layout": {
+      "maxWidth": 1024,
+      "centered": false
+    },
+    "colors": {
+      "text": "#111",
+      "background": "#fff",
+      "primary": "#08e",
+      "secondary": "#059",
+      "highlight": "#e08",
+      "border": "#ddd",
+      "muted": "#eee"
+    },
+    "border": {
+      "width": 1,
+      "radius": 2
+    },
+    "link": {},
+    "button": {
+      "hover": {
+        "boxShadow": "inset 0 0 0 999px rgba(0, 0, 0, .125)"
+      }
+    },
+    "input": {},
+    "body": {
+      "margin": 0
+    },
+    "breakpoints": {
+      "xs": "@media screen and (max-width:40em)",
+      "sm": "@media screen and (min-width:40em)",
+      "md": "@media screen and (min-width:52em)",
+      "lg": "@media screen and (min-width:64em)"
+    }
+  },
+  "content": [
+    {
+      "component": "nav",
+      "links": [
+        {
+          "href": "https://github.com/cniculescu/chinatown",
+          "text": "GitHub"
+        }
+      ]
+    },
+    {
+      "component": "header",
+      "heading": "chinatown",
+      "subhead": "Website Documenting UBC SALA Student Work",
+      "children": [
+        {
+          "component": "ui/TweetButton",
+          "text": "chinatown: Website Documenting UBC SALA Student Work",
+          "url": null
+        },
+        {
+          "component": "ui/GithubButton",
+          "user": "cniculescu",
+          "repo": "chinatown"
+        }
+      ]
+    },
+    {
+      "component": "article",
+      "metadata": {
+        "source": "github.readme"
+      },
+      "html": "<h1>Urban Chinatown</h1>\n<p><a href=\"http://www.urbanchinatown.com\">urbanchinatown.com</a></p>\n<p>As part of a Architecture Studio at the University of British Columbia, this site is intended to document our exploration of Vancouver&apos;s Chinatown District. This site will be updated throughout the course of 2015 analyizing various aspects of Chinatown for the intent of proposing housing strategies within the area. </p>\n<h2>Many thanks to <a href=\"http://johnotander.com\">John Otander</a> for his work on <a href=\"http://www.pixyll.com\">pixyll.com</a></h2>\n<ul>\n<li><a href=\"http://www.pixyll.com\">pixyll.com</a></li>\n</ul>\n<h2>Resources used :</h2>\n<ul>\n<li><a href=\"http://basscss.com\">BASSCSS</a></li>\n<li><a href=\"http://jekyllrb.com\">Jekyll</a></li>\n<li><a href=\"http://refills.bourbon.io/\">Refills</a></li>\n<li><a href=\"http://ethanschoonover.com/solarized\">Solarized</a></li>\n<li><a href=\"http://daneden.github.io/animate.css/\">Animate.css</a></li>\n</ul>\n"
+    },
+    {
+      "component": "footer",
+      "links": [
+        {
+          "href": "https://github.com/cniculescu/chinatown",
+          "text": "GitHub"
+        },
+        {
+          "href": "https://github.com/cniculescu",
+          "text": "cniculescu"
+        }
+      ]
+    }
+  ]
+}
